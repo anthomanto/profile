@@ -1,0 +1,77 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  background-color: #F2F2F2;
+  text-align: center;
+  margin: 0;
+}
+
+img {
+  width: 700px;
+}
+
+.asa {
+  width: 400px;
+}
+
+h3 {
+  text-align: left;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+p {
+  text-align: right;
+  margin-right: 20px;
+}
+
+.shibu {
+  background-color: #333333;
+  color: white;
+}
+
+h2 {
+  font-size: 50px;
+  margin: 20px;
+}
+
+h1 {
+  background-color: #333333;
+  color: white;
+  margin: 0;
+}
+
+.aki {
+  width: 450px;
+}
+
+.white-shibu {
+  background-color: #F2F2F2;
+}
+
+.pp {
+  padding-bottom: 16px;
+}
+
+.food {
+  background-image: url("images/ramen3.jpg");
+  color: white;
+  height: 770px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+a {
+  background-color: #F2F2F2;
+  color: #333333;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  font-size: 30px;
+}
+
+.white-space {
+  height: 400px;
+  width: 100%;
+}
